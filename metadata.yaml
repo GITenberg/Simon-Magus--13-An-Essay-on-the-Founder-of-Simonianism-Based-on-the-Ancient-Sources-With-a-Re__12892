@@ -1,0 +1,27 @@
+_repo: Simon-Magus--13-An-Essay-on-the-Founder-of-Simonianism-Based-on-the-Ancient-Sources-With-a-Re__12892
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mead, G. R. S. (George Robert Stow)
+    alias: Mead, George Robert Stow
+    birthdate: 1863
+    deathdate: 1933
+    gutenberg_agent_id: '4696'
+    url: http://www.gutenberg.org/2009/agents/4696
+    wikipedia: http://en.wikipedia.org/wiki/G._R._S._Mead
+description: ''
+gutenberg_issued: '2004-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12892'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Simon, Magus, active 1st century'
+- GITenberg
+title: "Simon Magus\r\nAn Essay on the Founder of Simonianism Based on the Ancient\
+  \ Sources With a Re-Evaluation of His Philosophy and Teachings"
+url: http://www.gutenberg.org/ebooks/12892
